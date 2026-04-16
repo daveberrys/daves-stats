@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="169.26"
+            width="168.795"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="169.26"
+            x="168.795"
             y="0"
-            width="87.79199999999999"
+            width="89.3265"
             height="8"
             fill="#ff3e00"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="257.05199999999996"
+            x="258.12149999999997"
             y="0"
-            width="86.1645"
+            width="85.8855"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="343.2165"
+            x="344.00699999999995"
             y="0"
-            width="47.3835"
+            width="47.244"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="390.6"
+            x="391.251"
             y="0"
-            width="41.6175"
+            width="41.478"
             height="8"
             fill="#663399"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="432.21750000000003"
+            x="432.729"
             y="0"
-            width="32.3175"
+            width="32.178000000000004"
             height="8"
             fill="#df7900"
           />
@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte - 57 hrs 14 mins
+        Svelte - 58 hrs 24 mins
       </text>
     </g>
   
