@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="161.4945"
+            width="161.30849999999998"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="161.4945"
+            x="161.30849999999998"
             y="0"
-            width="103.50900000000001"
+            width="103.4625"
             height="8"
             fill="#ff3e00"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="265.00350000000003"
+            x="264.77099999999996"
             y="0"
-            width="69.843"
+            width="69.75"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="334.84650000000005"
+            x="334.52099999999996"
             y="0"
-            width="53.01"
+            width="53.28900000000001"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="387.85650000000004"
+            x="387.80999999999995"
             y="0"
-            width="41.29200000000001"
+            width="41.24549999999999"
             height="8"
             fill="#f1e05a"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="429.14850000000007"
+            x="429.05549999999994"
             y="0"
-            width="36.8745"
+            width="36.7815"
             height="8"
             fill="#663399"
           />
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 44 hrs 17 mins
+        Markdown - 44 hrs 35 mins
       </text>
     </g>
   
