@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="153.822"
+            width="153.21750000000003"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="153.822"
+            x="153.21750000000003"
             y="0"
-            width="106.95"
+            width="106.5315"
             height="8"
             fill="#ff3e00"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="260.772"
+            x="259.749"
             y="0"
-            width="67.239"
+            width="66.96"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="328.01099999999997"
+            x="326.709"
             y="0"
-            width="62.495999999999995"
+            width="62.2635"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="390.50699999999995"
+            x="388.9725"
             y="0"
-            width="40.455"
+            width="40.269"
             height="8"
             fill="#f1e05a"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="430.96199999999993"
+            x="429.24150000000003"
             y="0"
-            width="35.247"
+            width="35.1075"
             height="8"
             fill="#663399"
           />
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 57 hrs 5 mins
+        Markdown - 57 hrs 6 mins
       </text>
     </g>
   
