@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="153.21750000000003"
+            width="153.078"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="153.21750000000003"
+            x="153.078"
             y="0"
-            width="106.5315"
+            width="106.4385"
             height="8"
             fill="#ff3e00"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="259.749"
+            x="259.5165"
             y="0"
-            width="66.96"
+            width="66.867"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="326.709"
+            x="326.3835"
             y="0"
-            width="62.2635"
+            width="62.775"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="388.9725"
+            x="389.1585"
             y="0"
-            width="40.269"
+            width="40.2225"
             height="8"
             fill="#f1e05a"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="429.24150000000003"
+            x="429.381"
             y="0"
-            width="35.1075"
+            width="35.014500000000005"
             height="8"
             fill="#663399"
           />
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 57 hrs 6 mins
+        Markdown - 57 hrs 38 mins
       </text>
     </g>
   
