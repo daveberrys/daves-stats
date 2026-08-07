@@ -169,7 +169,7 @@
             data-testid="lang-progress"
             x="393.4365"
             y="0"
-            width="38.316"
+            width="38.2695"
             height="8"
             fill="#f1e05a"
           />
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="431.75250000000005"
+            x="431.706"
             y="0"
             width="32.364000000000004"
             height="8"
@@ -195,14 +195,14 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte - 112 hrs 18 mins
+        Svelte - 112 hrs 19 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 75 hrs 7 mins
+        Markdown - 75 hrs 9 mins
       </text>
     </g>
   
