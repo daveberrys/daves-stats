@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="142.4295"
+            width="143.03400000000002"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="142.4295"
+            x="143.03400000000002"
             y="0"
-            width="113.87849999999999"
+            width="114.669"
             height="8"
             fill="#ff3e00"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="256.308"
+            x="257.70300000000003"
             y="0"
-            width="75.2835"
+            width="75.60900000000001"
             height="8"
             fill="#083fa1"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="331.5915"
+            x="333.312"
             y="0"
-            width="61.6125"
+            width="61.938"
             height="8"
             fill="#e34c26"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="393.204"
+            x="395.25"
             y="0"
-            width="38.129999999999995"
+            width="38.3625"
             height="8"
             fill="#f1e05a"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="431.334"
+            x="433.6125"
             y="0"
-            width="32.364000000000004"
+            width="32.457"
             height="8"
             fill="#663399"
           />
@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte - 113 hrs 44 mins
+        Svelte - 114 hrs 3 mins
       </text>
     </g>
   
@@ -209,14 +209,14 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 61 hrs 34 mins
+        HTML - 61 hrs 35 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 38 hrs 5 mins
+        JavaScript - 38 hrs 6 mins
       </text>
     </g>
   
